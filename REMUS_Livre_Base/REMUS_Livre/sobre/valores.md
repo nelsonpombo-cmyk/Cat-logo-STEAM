@@ -1,5 +1,0 @@
-# Valores
-
-- Colaboração
-- Abertura
-- Qualidade
