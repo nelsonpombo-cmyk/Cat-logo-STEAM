@@ -5,7 +5,7 @@ title: Arduino
 
 # Arduino
 
-![Arduino Uno](../imagens/nime/arduino.jpg)
+![Arduino Uno]({{ '/imagens/nime/arduino.png' | relative_url }})
 
 ## Resumo Executivo
 

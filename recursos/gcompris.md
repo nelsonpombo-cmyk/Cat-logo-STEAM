@@ -12,7 +12,6 @@ status: Publicado
 
 > Suíte educacional livre que reúne atividades interativas para diferentes áreas do conhecimento, incluindo jogos e exercícios voltados à iniciação musical.
 
-![Interface principal do GCompris](../../assets/img/recursos/musicalizacao/gcompris/interface-principal.webp)
 
 ---
 
@@ -118,7 +117,6 @@ Na área musical, destacam-se atividades relacionadas ao reconhecimento de sons,
 
 Essa estrutura permite adaptar o uso da ferramenta às diferentes faixas etárias e objetivos pedagógicos.
 
-![Atividade musical do GCompris](../../assets/img/recursos/musicalizacao/gcompris/atividade-musical.webp)
 
 ---
 

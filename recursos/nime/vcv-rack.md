@@ -5,7 +5,6 @@ title: VCV Rack
 
 # VCV Rack
 
-![VCV Rack](../imagens/nime/vcv-rack.jpg)
 
 ## Resumo Executivo
 

@@ -5,7 +5,6 @@ title: Pure Data
 
 # Pure Data (Pd)
 
-![Pure Data](../imagens/nime/pure-data.jpg)
 
 ## Resumo Executivo
 

@@ -12,7 +12,6 @@ status: Publicado
 
 > Ambiente livre de programação musical (live coding) desenvolvido para ensinar programação por meio da criação musical e da performance em tempo real.
 
-![Interface principal do Sonic Pi](../../assets/img/recursos/audio/sonic-pi/interface-principal.webp)
 
 ---
 
@@ -111,7 +110,6 @@ Conceitos como variáveis, laços de repetição, funções e sincronização to
 
 Essa integração entre programação e música favorece a aprendizagem de lógica computacional em contextos criativos.
 
-![Exemplo de código no Sonic Pi](../../assets/img/recursos/audio/sonic-pi/codigo.webp)
 
 ---
 

@@ -12,7 +12,6 @@ status: Publicado
 
 > Software livre voltado ao treinamento auditivo, percepção musical e desenvolvimento de habilidades relacionadas ao solfejo, intervalos, acordes, escalas e ritmo.
 
-![Interface principal do GNU Solfege](../../assets/img/recursos/musicalizacao/gnu-solfege/interface-principal.webp)
 
 ---
 
@@ -108,7 +107,6 @@ Os exercícios podem utilizar reprodução MIDI para apresentar intervalos, acor
 
 Essa estrutura facilita a organização de percursos formativos adaptados ao nível de conhecimento da turma.
 
-![Exemplo de exercício](../../assets/img/recursos/musicalizacao/gnu-solfege/exercicios.webp)
 
 ---
 

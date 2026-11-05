@@ -5,7 +5,7 @@ title: LMMS
 
 # LMMS
 
-![LMMS](../../imagens/audio/audio-lmms.jpg)
+![LMMS]({{ '/imagens/audio/audio-lmms.jpg' | relative_url }})
 
 *Interface do LMMS.*
 
