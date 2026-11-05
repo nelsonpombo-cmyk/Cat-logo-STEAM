@@ -5,7 +5,7 @@ title: Audacity
 
 # Audacity
 
-![Audacity](../../imagens/audio/audio-audacity.jpg)
+![Audacity]({{ '/imagens/audio/audio-audacity.jpg' | relative_url }})
 
 *Interface do Audacity.*
 

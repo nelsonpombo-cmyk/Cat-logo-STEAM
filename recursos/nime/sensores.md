@@ -5,7 +5,6 @@ title: Sensores e Atuadores
 
 # Sensores e Atuadores
 
-![Sensores e Atuadores](../imagens/nime/sensores.jpg)
 
 ## Resumo Executivo
 

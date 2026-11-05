@@ -5,8 +5,6 @@ title: Theremin de Luz
 
 # Theremin de Luz
 
-![Theremin de Luz](../imagens/nime/theremin-luz.jpg)
-
 ## Resumo Executivo
 
 O Theremin de Luz é uma interface musical experimental que transforma luz e sombra em som. Utiliza um sensor de luminosidade (LDR) conectado a um microcontrolador (como o Arduino) para controlar a frequência sonora em tempo real.
@@ -324,5 +322,3 @@ Em projetos STEAM, o Theremin de Luz evidencia que física, programação e expr
 - Primeira publicação.
 - Estrutura editorial alinhada ao padrão do REMUS Livre.
 - Preparada para integração com imagens e futuras revisões técnicas.
-
-

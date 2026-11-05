@@ -5,7 +5,7 @@ title: Ardour
 
 # Ardour
 
-![Ardour](../../imagens/audio/audio-ardour.jpg)
+![Ardour]({{ '/imagens/audio/audio-ardour.jpg' | relative_url }})
 
 *Interface do Ardour.*
 

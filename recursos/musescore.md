@@ -5,7 +5,7 @@ title: MuseScore
 
 # MuseScore
 
-![MuseScore](../../imagens/notacao/notacao-musescore.jpg)
+![MuseScore]({{ '/imagens/notacao/notacao-musescore.jpg' | relative_url }})
 
 *Interface do MuseScore.*
 

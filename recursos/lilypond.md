@@ -5,7 +5,7 @@ title: LilyPond
 
 # LilyPond
 
-![LilyPond](../../imagens/notacao/notacao-lilypond.jpg)
+![LilyPond]({{ '/imagens/notacao/notacao-lilypond.jpg' | relative_url }})
 
 *Interface do LilyPond.*
 

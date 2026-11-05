@@ -5,7 +5,6 @@ title: SuperCollider
 
 # SuperCollider
 
-![SuperCollider](../imagens/nime/supercollider.jpg)
 
 ## Resumo Executivo
 

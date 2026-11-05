@@ -5,7 +5,7 @@ title: Hydrogen
 
 # Hydrogen
 
-![Hydrogen](../../imagens/audio/audio-hydrogen.jpg)
+![Hydrogen]({{ '/imagens/audio/audio-hydrogen.jpg' | relative_url }})
 
 *Interface do Hydrogen.*
 

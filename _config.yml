@@ -3,6 +3,8 @@ title: REMUS Livre
 description: Repositório de Recursos Educacionais Abertos para Educação Musical
 author: NECT - Núcleo de Estudos e Pesquisas sobre Educação, Comunicação e Tecnologia
 email: nelsonpombojr@gmail.com
+url: https://nelsonpombo-cmyk.github.io
+baseurl: /Cat-logo-STEAM
 
 # Tema (usamos "minimal" como base, mas com CSS personalizado)
 theme: jekyll-theme-minimal

@@ -5,7 +5,7 @@ title: TuxGuitar
 
 # TuxGuitar
 
-![TuxGuitar](../../imagens/notacao/notacao-tuxguitar.jpg)
+![TuxGuitar]({{ '/imagens/notacao/notacao-tuxguitar.jpg' | relative_url }})
 
 *Interface do TuxGuitar.*
 
